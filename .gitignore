@@ -15,6 +15,7 @@ BepInEx/*
 
 # BepInEx Plugins 
 !BepInEx/plugins
+!BepInEx/patchers
 
 # BepInEx config
 !BepInEx/config
